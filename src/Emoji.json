@@ -1,0 +1,66 @@
+[
+    {
+        "title": "heart" ,
+        "symbol": "❤"
+    },
+    {
+        "title": "smile",
+        "symbol": "😁"
+    },
+    {
+        "title": "fire",
+        "symbol": "🔥"
+    },
+    {
+        "title": "cry",
+        "symbol": "😭"
+    },
+    {
+        "title": "thumbsup",
+        "symbol": "👍"
+    },
+    {
+        "title": "peaceout",
+        "symbol": "✌"
+    },
+    {
+        "title": "music",
+        "symbol": "🎶"
+    },
+    {
+        "title": "mic",
+        "symbol": "🎤"
+    },
+    {
+        "title": "guitar",
+        "symbol": "🎸"
+    },
+    {
+        "title": "skull",
+        "symbol": "💀"
+    },
+    {
+        "title": "gun",
+        "symbol": "🔫"
+    },
+    {
+        "title": "peace",
+        "symbol": "☮"    
+    },
+    {
+        "title":"dollar",
+        "symbol": "💲"
+    },
+    {
+        "title": "cake",
+        "symbol": "🎂"
+    },
+    {
+        "title": "party popper",
+        "symbol": "🎉"
+    },
+    {
+        "title": "gift",
+        "symbol": "🎁"
+    }
+]
